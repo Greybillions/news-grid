@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
   grid-gap: 1.5rem;
 }
 
-.page-container > *: first-child {
+.page-container > *:first-child {
   grid-row: 1 / span 3;
 }
 
